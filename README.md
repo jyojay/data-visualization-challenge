@@ -1,5 +1,13 @@
-# data-visualization-challenge
-References:
+## data-visualization-challenge
+This repository consists of:
+- File pymaceuticals_code.ipynb consisting of the code I wrote as a solution and analysis to this challenge using Jupyter notebook.
+- Data folder with provided csv files.
+
+# Note:
+Jupyter notebook was used for coding
+
+# Acknowledgements:
+The below links were referenced:
 - https://stackoverflow.com/questions/12589481/multiple-aggregations-of-the-same-column-using-pandas-groupby-agg
 - https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
 - https://matplotlib.org/stable/gallery/color/named_colors.html
