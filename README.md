@@ -6,7 +6,7 @@ This repository consists of:
 # Note:
 Jupyter notebook was used for coding
 
-#Assumptions
+# Assumptions: 
 - This program will be using data sorted on timepoints similar to what is currently provided with this challenge
 - For generating pie plots showing the distribution of female versus male mice we are considering each iteration of the mice and not just unique number of mice used in the experiments
 - The weight of each mice remains constant during the timeperiod of these experiments
